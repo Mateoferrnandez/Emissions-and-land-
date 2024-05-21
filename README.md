@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project investigates the relationship between forest cover and CO2 emissions in South America. By analyzing data using pandas and Jupyter Notebook, we aim to understand how forest cover and land use impact CO2 emissions across various countries in the region. To enhance the visualization and comprehension of this relationship, a Power BI dashboard has also been created.
+This is my first personal project, where I investigate the relationship between forest cover and CO2 emissions in South America. By analyzing data using pandas and Jupyter Notebook, I aim to understand how forest cover and land use impact CO2 emissions across various countries in the region. To enhance the visualization and comprehension of this relationship, a Power BI dashboard has also been created.
 
 ## Tools and Technologies
 
