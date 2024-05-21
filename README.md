@@ -20,7 +20,7 @@ This project investigates the relationship between forest cover and CO2 emission
 ## How to View the Project
 
 - **Jupyter Notebook**: Open the notebook in the `notebooks/` directory to see the detailed analysis and conclusions.
-- **Power BI Dashboard**: The dashboard can be viewed online on Deepnote. [View Dashboard on Deepnote](https://deepnote.com/your-dashboard-link)
+- **Power BI Dashboard**: The dashboard can be viewed online on Deepnote. [View Dashboard on Deepnote]([https://deepnote.com/your-dashboard-link](https://deepnote.com/workspace/mateofernandez-c7c6b165-b5e5-44be-9aa1-6f96867cde09/project/Landandemissionsproject-fdca6125-545d-4b67-bfee-2dbe4475005e/notebook/forestcoverandemissions-e96bcd8a2ffd4f3295471356f333ea5c))
 
 ## Installation
 
