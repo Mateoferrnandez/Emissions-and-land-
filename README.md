@@ -19,12 +19,6 @@ For my inaugural project, I undertook an in-depth exploration into the intricate
 
 - **Power BI:** Created an interactive dashboard using Power BI to visualize and present the findings in a clear and compelling manner.
 
-### Project Objectives:
-
-- **Insightful Analysis:** The primary goal was to conduct a comprehensive analysis to elucidate the intricate relationship between forest cover and CO2 emissions in South America.
-
-- **Effective Visualization:** Through the development of an interactive Power BI dashboard, the aim was to present the findings in a visually engaging and accessible format.
-
 ## Project Structure
 
 - `notebooks/`: Contains the Jupyter Notebook with the detailed analysis.
