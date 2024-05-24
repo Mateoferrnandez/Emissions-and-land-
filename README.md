@@ -14,7 +14,7 @@ This is my first personal project, where I investigate the relationship between 
 
 - `notebooks/`: Contains the Jupyter Notebook with the detailed analysis.
 - `data/`: Directory for raw and processed data files.
-- `dashboard/`: Contains the Power BI dashboard files and a link to view it online.
+-`asets/`: images used in the storytelling
 
 ## How to View the Project
 
