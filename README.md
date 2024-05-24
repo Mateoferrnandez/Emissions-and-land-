@@ -10,8 +10,7 @@ For my inaugural project, I undertook an in-depth exploration into the intricate
   
 - **Analytical Investigation:** Employed advanced analytical techniques to scrutinize the correlation between forest cover and CO2 emissions, unraveling underlying trends and patterns.
 
-- **Interactive Visualization:** Developed an interactive Power BI dashboard to visually communicate the findings effectively, enabling stakeholders to grasp the insights intuitively.
-
+- **Interactive Visualization:** Developed an interactive Power BI dashboard to visually communicate the findings effectively.
 ### Technologies Used:
 
 - **Python:** Leveraged Python programming language for data manipulation and analysis tasks.
