@@ -23,7 +23,7 @@ For my inaugural project, I undertook an in-depth exploration into the intricate
 
 - `notebooks/`: Contains the Jupyter Notebook with the detailed analysis.
 - `data/`: Directory for raw and processed data files.
--`asets/`: images used in the storytelling
+- `asets/`: images used in the storytelling
 
 ## How to View the Project
 
